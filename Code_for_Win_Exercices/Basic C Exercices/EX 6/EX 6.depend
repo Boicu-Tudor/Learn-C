@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646249296 source:a:\code block\github code for win\basic c exercices\ex 6\main.c
+	<stdio.h>
+	<stdlib.h>
+

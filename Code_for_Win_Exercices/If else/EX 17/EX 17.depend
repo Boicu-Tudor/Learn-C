@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646415134 source:a:\code block\github code for win\if else\ex 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
