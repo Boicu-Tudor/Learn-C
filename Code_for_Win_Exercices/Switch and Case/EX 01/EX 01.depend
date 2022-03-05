@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646432011 source:a:\code block\github code for win\switch and case\ex 01\main.c
+	<stdio.h>
+	<stdlib.h>
+

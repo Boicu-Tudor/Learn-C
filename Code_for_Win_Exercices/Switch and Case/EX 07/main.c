@@ -1,14 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
-int main()
-{
 /*
-*C program to find all roots of a quadratic equation using if else.
+*C program to find all roots of a Quadratic equation using switch case.
 */
 
 
+
+
+int main()
+{
     double a, b, c;
 
     printf("Enter your first side:");
@@ -25,29 +26,35 @@ int main()
     delta = (b*b)-(4*a*c);
     double root1, root2;
 
-    if (delta>0)
+    switch (delta>0)
     {
+
+    case 1:
         root1 = (-b+sqrt(delta))/(2*a);
         root2 = (-b-sqrt(delta))/(2*a);
-        printf ("Root1:%f\n", root1);
-        printf ("Root2:%f\n", root2);
+        printf ("Root1:%.2f\n", root1);
+        printf ("Root2:%.2f\n", root2);
+    break;
 
-    }else if (delta<0)
-    {
+    case 0:
+        switch (delta<0)
+        {
+        case 1:
         root1 = (-b/(2*a))+((sqrt(-delta))/(2*a));
         root2 = (-b/(2*a))-((sqrt(-delta))/(2*a));
-        printf ("Root3:%f\n", root1);
-        printf ("Root4:%f\n", root2);
-    }else if (delta==0)
-    {
+        printf ("Root3:%.2f\n", root1);
+        printf ("Root4:%.2f\n", root2);
+        break;
+
+        case 0:
         root1=root2=-(b/(2*a));
-        printf ("Root:%f\n", root1);
-    }else
-    {
-        printf("The data is invalid");
+        printf ("Root:%.2f\n", root1);
+        break;
+        }
+    break;
+default: printf("Invalid data");
+
     }
-
-
 
 
 
