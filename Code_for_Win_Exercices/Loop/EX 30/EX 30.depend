@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646612374 source:a:\code block\github code for win\loop\ex 30\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
