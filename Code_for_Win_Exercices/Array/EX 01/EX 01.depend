@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646850547 source:a:\code block\github code for win\array\ex 01\main.c
+	<stdio.h>
+	<stdlib.h>
+
