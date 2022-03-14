@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647270626 source:a:\code block\github code for win\pointers\exs 01\main.c
+	<stdio.h>
+	<stdlib.h>
+

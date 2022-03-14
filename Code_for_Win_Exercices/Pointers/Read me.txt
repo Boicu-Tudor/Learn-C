@@ -1,0 +1,2 @@
+The exercices: EX 01/ EX 02/ EX 03/ EX 04 are from: https://codeforwin.org/2017/12/pointer-programming-exercises-and-solutions-in-c.html
+The exercices: EXs 01/ EXs 02/ EXs 03/ EXs 04/ EXs 05/ EXs 06/ EXs 07 are from: https://www.w3resource.com/c-programming-exercises/pointer/index.php
