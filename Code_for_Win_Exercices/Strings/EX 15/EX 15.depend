@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647110770 source:a:\code block\github code for win\strings\ex 15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
