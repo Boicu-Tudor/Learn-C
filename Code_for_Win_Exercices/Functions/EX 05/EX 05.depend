@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646621952 source:a:\code block\github code for win\functions\ex 05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
