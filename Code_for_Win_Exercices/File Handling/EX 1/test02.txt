@@ -1,0 +1,2 @@
+Hello World
+Test 02 after writing with "w".

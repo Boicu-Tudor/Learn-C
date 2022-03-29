@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647389978 source:a:\code block\github code for win\file handling\ex 02\main.c
+	<stdio.h>
+	<stdlib.h>
+
